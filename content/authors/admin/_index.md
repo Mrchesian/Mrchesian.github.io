@@ -75,11 +75,7 @@ education:
   - area: B.A. Software Engineering
     institution: Guangdong University of Technology (GDUT)
     date_start: 2014-09-01
-<<<<<<< HEAD
-    date_end: 2018-06-31
-=======
     date_end: 2018-06-30
->>>>>>> dd257cd (修改)
     summary: |
       GPA: 3.6/5.0
       
