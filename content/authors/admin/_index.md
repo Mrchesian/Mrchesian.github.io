@@ -33,23 +33,23 @@ profiles:
   - icon: at-symbol
     url: 'mailto:yc17017@um.edu.mo'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Mrchesian
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=EjjHgP0AAAAJ&hl=zh-CN&oi=sra
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/my-orcid?orcid=0000-0001-8804-6094
 
 interests:
   - Artificial Intelligence
   - Computational Linguistics
-  - Information Retrieval
+  - Corporate Disclosure
 
 education:
   - area: PhD Accounting
